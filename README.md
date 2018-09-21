@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # cluster_debug
+=======
+# debugmodule
+>>>>>>> master
 
 
 To make sure everything is running correctly in venv, and to practice switching between branches

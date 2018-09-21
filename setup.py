@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-setup(name='venvdebug',
+setup(name='debugmodule',
       version='1.0',
-      py_modules=['venvdebug'],
+      packages=['debugmodule'],
       )
