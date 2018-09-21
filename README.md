@@ -1,4 +1,4 @@
-# cluster_debug
+# debugmodule
 
 
 To make sure everything is running correctly in venv, and to practice switching between branches

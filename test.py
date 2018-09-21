@@ -1,3 +1,3 @@
-import venvdebug
+import debugmodule
 
-venvdebug.print_branch_name()
+debugmodule.print_branch_name()
